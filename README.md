@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sdogold
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on startups
 - 📫 you can reach me here
 
